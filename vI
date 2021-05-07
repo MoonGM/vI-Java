@@ -1,0 +1,13 @@
+
+import javax.swing.JOptionPane;
+
+public class vI {
+
+	public static void main(String[] args) {
+		JOptionPane.showMessageDialog(null,"ont vas jusque a 1000 x)?");
+		JOptionPane.showMessageDialog(null,"ta le drois a un auto clicker stv ");
+		for(int i=0; i<1001; i++)
+			JOptionPane.showMessageDialog(null,i);
+	}
+
+}
